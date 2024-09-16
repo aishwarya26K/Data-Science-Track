@@ -27,6 +27,22 @@ Note - I will upload the Python code file separately later.
 - Sorting
 - Numpy String operations
 
+## Day-4 Pandas
+- Data Structures in Pandas(Series and dataframe)
+- Viewing data with Pandas
+- Selection of data
+- Slicing of data
+- Use of Filter, Sort and GroupBy
+- Data cleaning functions
+- Statistical Functions
+- Combining dataframes
+- Check and removal of duplicates
+- Merging of dataframe
+- Pivot Table
+- Iterating over dataframe
+- Exporting a dataframe to a csv file or an excel file
+- Data Visualization in Pandas
+
 ### Acknowledgments:
 I'd like to extend my gratitude to W3Schools.com and GeeksforGeeks for providing valuable resources that assisted me in today's learning.
 
