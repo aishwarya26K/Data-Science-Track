@@ -43,6 +43,13 @@ Note - I will upload the Python code file separately later.
 - Exporting a dataframe to a csv file or an excel file
 - Data Visualization in Pandas
 
+## Day-5 Matplotlib
+- Approaches
+- Legends, Titles and Axes in a plot
+- Increase or decrease the size and the pixel
+- Different Types of Plots
+- 3D plots
+
 ### Acknowledgments:
 I'd like to extend my gratitude to W3Schools.com and GeeksforGeeks for providing valuable resources that assisted me in today's learning.
 
