@@ -50,6 +50,16 @@ Note - I will upload the Python code file separately later.
 - Different Types of Plots
 - 3D plots
 
+## Day-6 Seaborn
+- Loading datasets from seaborn
+- Customizing Seaborn Plots
+- Multiple plots using Seaborn
+- Different Types of Plots
+    - Relational Plots
+    - Categorical Plots
+    - Distribution Plots
+    
+
 ### Acknowledgments:
 I'd like to extend my gratitude to W3Schools.com and GeeksforGeeks for providing valuable resources that assisted me in today's learning.
 
